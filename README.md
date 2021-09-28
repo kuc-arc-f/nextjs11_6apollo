@@ -6,7 +6,7 @@
 
  date    : 2021/09/25
 
- update  :
+ update  : 2021/09/28
 
 ***
 ### Summary
@@ -31,6 +31,8 @@ https://github.com/kuc-arc-f/apollo_server_prisma_2
 
 ***
 ### Blog:
+
+https://zenn.dev/knaka0209/books/261398faf9b13a
 
 ***
 
